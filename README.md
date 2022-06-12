@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h2>I'm interested in </h2>
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
+
 <!--
 **merrycoral/merrycoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
