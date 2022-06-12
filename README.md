@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fortran-734f96?style=flat-square&logo=Fortran&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-3a75b0?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-#6db33f?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-#6db33f?style=flat-square&logo=Spring&logoColor=white"/>
 
 
 <h3>I Major in</h3>
