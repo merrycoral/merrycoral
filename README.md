@@ -3,14 +3,17 @@
 <h3>✨ I'm interested in </h3>
 
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white" style="display:inline"/> <img src="https://img.shields.io/badge/JavaScript-ec9f19?style=flat-square&logo=JavaScript&logoColor=white" style="display:inline"/>
-<img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white" style="display:inline"/>
-<img src="https://img.shields.io/badge/Fortran-734f96?style=flat-square&logo=Fortran&logoColor=white"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 <img src="https://img.shields.io/badge/Java-3a75b0?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-#6db33f?style=flat-square&logo=Spring&logoColor=white"/>
+![Spring](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=spring%20boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 
 #
-<h3>✨ I use </h3>
-<img src="https://img.shields.io/badge/VisualStudio-#007ACC?style=flat-square&logo=VisualStudio&logoColor=white"/>
+<h3>✨ I use </h3> 
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" style="display:inline"/> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white" style="display:inline"/>
 
 <h3>🎓 I Major in</h3>
 Earth Environmental Science and Geology. 😄
@@ -31,4 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://img.shields.io/badge/Fortran-734f96?style=flat-square&logo=Fortran&logoColor=white"/>
 -->
