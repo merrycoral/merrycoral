@@ -3,10 +3,10 @@
 <h3>✨ I'm interested in </h3>
 
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white" style="display:inline"/> <img src="https://img.shields.io/badge/JavaScript-ec9f19?style=flat-square&logo=JavaScript&logoColor=white" style="display:inline"/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-<img src="https://img.shields.io/badge/Java-3a75b0?style=flat-square&logo=Java&logoColor=white"/>
-![Spring](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=spring%20boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-%233a75b0.svg?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring%20boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%233E6E93.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 
